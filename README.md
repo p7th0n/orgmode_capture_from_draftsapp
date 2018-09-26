@@ -4,6 +4,7 @@
 
 - Capture text from iOS [Drafts app](https://getdrafts.com/) into Org-mode.
 - Add org-mode style tags from your [Drafts tags](https://vimeo.com/276105416).
+- Drafts keyboard macros to insert scheduled and deadline dates and code blocks.
 
 ## Installation
 
@@ -39,6 +40,8 @@ writeType:          prepend
 
 ## Links
 
+- [Org-mode keyboard macros | Drafts Action Directory](https://actions.getdrafts.com/g/1Pf)
+- [Org-mode capture | Drafts Action Directory](https://actions.getdrafts.com/a/1Pd)
 - [Org-mode](https://orgmode.org/): Org mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
 - [Org-mode Capture](https://orgmode.org/manual/Capture.html): Capture lets you quickly store notes with little interruption of your work flow.
 - Looking for Org-mode apps for iOS? Check out [Beorg](https://beorgapp.com/) and [MobileOrg](https://mobileorg.github.io/)
